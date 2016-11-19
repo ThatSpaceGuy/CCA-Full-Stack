@@ -1,5 +1,6 @@
 Cluster-Cluster Aggregation Overview
 ------------------------------------
+Cluster-Cluster Aggregation is a good model for the behavior of aerosol particles.
 
 Versioning Plan
 ---------------
