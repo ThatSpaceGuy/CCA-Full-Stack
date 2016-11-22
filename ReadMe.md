@@ -2,6 +2,10 @@ Cluster-Cluster Aggregation Overview
 ------------------------------------
 Cluster-Cluster Aggregation is a good model for the behavior of aerosol particles. This full-stack application will include alternate cluster development discovery. This means that one will be able to make a change in the history of the cluster development to see how things could have gone if a single change was made.
 
+Program Overview
+----------------
+1) Seed a grid with a given number of "particles" in random positions
+
 
 Versioning Plan
 ---------------
