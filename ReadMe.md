@@ -15,8 +15,11 @@ Program Overview
 Versioning Plan
 ---------------
 * 0.1 - ReadMe & html/js/css/server/heroku handshakes - initial commit
-* 0.2 -
-* 0.3 -
-* 0.4 -
-* 0.5 -
-* 0.6 -
+* 0.2 - Basic ReadMe completed
+* 0.3 - Seed grid with particles
+* 0.4 - Scan grid for any particles seeded together (these start as clusters)
+* 0.5 - Store coordinates for checking of aggregation for each particle/cluster
+* 0.6 - Move a random particle/cluster
+* 0.7 - Check whether the particle/cluster has aggregated any new particles/clusters
+* 0.8 - Update information for cluster with new aggregated particle/cluster information
+* 0.9 - Update information for checking of aggregation on the newly grown cluster
