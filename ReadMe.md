@@ -10,8 +10,6 @@ Program Overview
 4) This behavior continues until only one cluster remains
 5) This full-stack app will also keep track of the movement history, allowing a user to retrace the development of the clusters in the program.
 
-
-
 Versioning Plan
 ---------------
 * 0.1 - ReadMe & html/js/css/server/heroku handshakes - initial commit
