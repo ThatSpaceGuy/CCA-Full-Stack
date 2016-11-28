@@ -10,6 +10,14 @@ Program Overview
 4) This behavior continues until only one cluster remains
 5) This full-stack app will also keep track of the movement history, allowing a user to retrace the development of the clusters in the program.
 
+Program planning
+----------------
+1) The particles will be stored as an array of objects
+2) Each particle will be an object with a number of properties stored there-in:
+* Particle coordinates
+* Array of coordinates of spaces to check around the particle
+3) For a cluster, there will be one particle that serves as the main anchor, any other particles that are attached as part of the cluster will have their coordinates stored in a array within a property of the Anchor Particle's object.
+
 Versioning Plan
 ---------------
 * 0.1 - ReadMe & html/js/css/server/heroku handshakes - initial commit
