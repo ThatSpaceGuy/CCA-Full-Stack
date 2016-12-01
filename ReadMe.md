@@ -10,6 +10,12 @@ Program Overview
 4) This behavior continues until only one cluster remains
 5) This full-stack app will also keep track of the movement history, allowing a user to retrace the development of the clusters in the program.
 
+Variable Parameters
+-------------------
+* Grid-size x and y (particles have a size of 1x1)
+* Initial number of seed particles
+* Whether movement can wrap the edges of the screen or not
+
 Program planning
 ----------------
 1) The particles will be stored as an array of objects
