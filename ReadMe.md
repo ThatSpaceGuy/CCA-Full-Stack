@@ -23,6 +23,10 @@ Program planning
 * Particle coordinates
 * Array of coordinates of spaces to check around the particle
 3) For a cluster, there will be one particle that serves as the main anchor, any other particles that are attached as part of the cluster will have their coordinates stored in a array within a property of the Anchor Particle's object.
+This is what the properties would look like:
+* Main Anchor coordinates
+* Array of coordinates of particles included in the cluster
+* Array of coordinates of spaces to check around the cluster
 
 Versioning Plan
 ---------------
