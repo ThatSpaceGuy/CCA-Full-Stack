@@ -12,6 +12,7 @@ Program Overview
 
 
 
+
 Variable Parameters
 -------------------
 * Grid-size x and y (particles have a size of 1x1)
