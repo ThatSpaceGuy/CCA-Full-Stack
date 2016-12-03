@@ -11,6 +11,7 @@ Program Overview
 5) This full-stack app will also keep track of the movement history, allowing a user to retrace the development of the clusters in the program.
 
 
+
 Variable Parameters
 -------------------
 * Grid-size x and y (particles have a size of 1x1)
