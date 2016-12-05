@@ -40,3 +40,5 @@ Versioning Plan
 * 0.8 - Update information for cluster with new aggregated particle/cluster information
 * 0.9 - Update information for checking of aggregation on the newly grown cluster
 * 1.0 - Functional cluster-cluster aggregation behavior ending with one cluster
+
+* 2.0 - Full-Stack storage of particle and cluster movement history
