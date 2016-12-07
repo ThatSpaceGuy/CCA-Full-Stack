@@ -42,3 +42,5 @@ Versioning Plan
 * 1.0 - Functional cluster-cluster aggregation behavior ending with one cluster
 
 * 2.0 - Full-Stack storage of particle and cluster movement history
+
+* 3.0 - Change a moment in history and compare the changes
