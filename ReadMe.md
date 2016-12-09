@@ -43,6 +43,6 @@ Versioning Plan
 
 * 2.0 - Full-Stack storage of particle and cluster movement history
 
-* 3.0 - Change a moment in history and save the new rest of the history
+* 3.0 - Change a moment in history and save the new alternate history
 
 * 4.0 - Ability to compare the two histories after a change in one moment.
