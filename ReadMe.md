@@ -42,6 +42,7 @@ Versioning Plan
 * 1.0 - Functional cluster-cluster aggregation behavior ending with one cluster
 
 * 1.1 - Design and set-up SQL database
+* 1.2 - Store coordinates for each particle/cluster after a movement is made.
 * 2.0 - Full-Stack storage of particle and cluster movement history
 
 * 3.0 - Change a moment in history and save the new alternate history
