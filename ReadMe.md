@@ -48,4 +48,4 @@ Versioning Plan
 
 * 3.0 - Change a moment in history and save the new alternate history
 
-* 4.0 - Ability to compare the two histories after a change in one moment using a slider to be able to move forward and backward in time.
+* 4.0 - Ability to compare the two histories after a change in one moment using a slider to be able to move forward and backward in history.
